@@ -1,0 +1,291 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ulička odvahy",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jiří Mahen",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-12-20T00:00:00.000Z",
+    "published": "2021-12-16T13:30:49.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ulicka_odvahy_009.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_ulicka_odvahy2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "OSOBY",
+      "children": [
+        {
+          "title": "Charakteristika osob",
+          "href": "OEBPS/Text/ulicka_odvahy_005.xhtml#_idParaDest-2"
+        }
+      ],
+      "href": "OEBPS/Text/ulicka_odvahy_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "PRVNÍ DĚJSTVÍ",
+      "children": [
+        {
+          "title": "1. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "2. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "3. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "4. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "5. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "6. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "7. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "8. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "9. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "10. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "11. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-14"
+        }
+      ],
+      "href": "OEBPS/Text/ulicka_odvahy_006.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "DRUHÉ DĚJSTVÍ",
+      "children": [
+        {
+          "title": "1. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "2. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "3. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "4. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "5. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "6. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "7. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "8. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "9. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "10. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "11. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "12. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "13. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-28"
+        }
+      ],
+      "href": "OEBPS/Text/ulicka_odvahy_007.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "TŘETÍ DĚJSTVÍ",
+      "children": [
+        {
+          "title": "1. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "2. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "3. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "4. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "5. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "6. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "7. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "8. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "9. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "10. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "11. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "12. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "13. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "14. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "15. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "16. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "17. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "18. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "19. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "20. výstup",
+          "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-49"
+        }
+      ],
+      "href": "OEBPS/Text/ulicka_odvahy_008.xhtml#_idParaDest-29"
+    }
+  ]
+}
