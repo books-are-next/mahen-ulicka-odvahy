@@ -1,6 +1,6 @@
 ---
 title: TŘETÍ DĚJSTVÍ
-contentType: prose
+contentType: drama
 ---
 
 <section>

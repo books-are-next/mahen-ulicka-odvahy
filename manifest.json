@@ -1,0 +1,470 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Ulička odvahy",
+  "author": "Jiří Mahen",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Drama",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "mahen-ulicka-odvahy-24c0438",
+  "revision": "24c0438",
+  "readingOrder": [
+    "promo.html",
+    "ulicka_odvahy_005.html",
+    "ulicka_odvahy_006.html",
+    "ulicka_odvahy_007.html",
+    "ulicka_odvahy_008.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Sep 16 2022 09:17:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1663319849065
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ulicka_odvahy_005.html",
+      "toc": []
+    },
+    {
+      "title": "OSOBY",
+      "file": "ulicka_odvahy_005.html",
+      "words": 154,
+      "chars": 958,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ulicka_odvahy_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Charakteristika osob",
+              "id": "charakteristika-osob",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PRVNÍ DĚJSTVÍ",
+      "file": "ulicka_odvahy_006.html",
+      "words": 6161,
+      "chars": 34164,
+      "ideas": 440,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ulicka_odvahy_005.html",
+      "next": "ulicka_odvahy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PRVNÍ DĚJSTVÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. výstup",
+              "id": "1-výstup",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. výstup",
+              "id": "2-výstup",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. výstup",
+              "id": "3-výstup",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. výstup",
+              "id": "4-výstup",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. výstup",
+              "id": "5-výstup",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6. výstup",
+              "id": "6-výstup",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7. výstup",
+              "id": "7-výstup",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8. výstup",
+              "id": "8-výstup",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9. výstup",
+              "id": "9-výstup",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10. výstup",
+              "id": "10-výstup",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11. výstup",
+              "id": "11-výstup",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DRUHÉ DĚJSTVÍ",
+      "file": "ulicka_odvahy_007.html",
+      "words": 6117,
+      "chars": 32481,
+      "ideas": 423,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ulicka_odvahy_006.html",
+      "next": "ulicka_odvahy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DRUHÉ DĚJSTVÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. výstup",
+              "id": "1-výstup",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. výstup",
+              "id": "2-výstup",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. výstup",
+              "id": "3-výstup",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. výstup",
+              "id": "4-výstup",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. výstup",
+              "id": "5-výstup",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6. výstup",
+              "id": "6-výstup",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7. výstup",
+              "id": "7-výstup",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8. výstup",
+              "id": "8-výstup",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9. výstup",
+              "id": "9-výstup",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10. výstup",
+              "id": "10-výstup",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11. výstup",
+              "id": "11-výstup",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12. výstup",
+              "id": "12-výstup",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13. výstup",
+              "id": "13-výstup",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "TŘETÍ DĚJSTVÍ",
+      "file": "ulicka_odvahy_008.html",
+      "words": 5316,
+      "chars": 29608,
+      "ideas": 382,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ulicka_odvahy_007.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TŘETÍ DĚJSTVÍ",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. výstup",
+              "id": "1-výstup",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. výstup",
+              "id": "2-výstup",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. výstup",
+              "id": "3-výstup",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. výstup",
+              "id": "4-výstup",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. výstup",
+              "id": "5-výstup",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6. výstup",
+              "id": "6-výstup",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7. výstup",
+              "id": "7-výstup",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8. výstup",
+              "id": "8-výstup",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9. výstup",
+              "id": "9-výstup",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10. výstup",
+              "id": "10-výstup",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11. výstup",
+              "id": "11-výstup",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12. výstup",
+              "id": "12-výstup",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13. výstup",
+              "id": "13-výstup",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14. výstup",
+              "id": "14-výstup",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15. výstup",
+              "id": "15-výstup",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "16. výstup",
+              "id": "16-výstup",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "17. výstup",
+              "id": "17-výstup",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "18. výstup",
+              "id": "18-výstup",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "19. výstup",
+              "id": "19-výstup",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "20. výstup",
+              "id": "20-výstup",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 127,
+      "chars": 824,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "ulicka_odvahy_008.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 17881,
+      "chars": 98066,
+      "ideas": 1287
+    },
+    "chapters": {
+      "words": 17748,
+      "chars": 97211,
+      "ideas": 1266
+    }
+  }
+}
