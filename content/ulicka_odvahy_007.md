@@ -693,7 +693,7 @@ _PÁN Č. 1 podívá se znova na STUDENTA. STUDENT plácne se po stehně._
 
 > ****PÁN** **Č. 2**: – pán u okna smekl, ironicky pozdravil a ten tam… _(Pološeptem.)_ Promiňte, ale mám-li být upřímný, je třeba, abyste mne pustil. Hm – ano? To byla přece nápadná situace!**
 
-> ****STUDENT**: Dem Reinen ist alles rein![1](./resources/undefined)**
+> ****STUDENT**: Dem Reinen ist alles rein![^1]**
 
 > ****PÁN** **Č. 2**: Nemyslel bych, že vy jste každý den čistý jako panenka! Myslím, myslím _(k Č. 1)_, že tyto chvíle má každý z nás!**
 
@@ -856,7 +856,5 @@ _A opona jde dolů._
 </div>
 
 * * *
-
-_[1](./resources/undefined) Čistému všechno čisté._
-
+[^1]: Čistému všechno čisté.
 </section>
