@@ -8,8 +8,8 @@
   "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mahen-ulicka-odvahy-24c0438",
-  "revision": "24c0438",
+  "identifier": "mahen-ulicka-odvahy-4cfe93d",
+  "revision": "4cfe93d",
   "readingOrder": [
     "promo.html",
     "ulicka_odvahy_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Sep 16 2022 09:17:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1663319849065
+    "date": "Thu Sep 29 2022 21:39:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487588394
   },
   "documents": [
     {
@@ -165,7 +165,7 @@
       "title": "DRUHÉ DĚJSTVÍ",
       "file": "ulicka_odvahy_007.html",
       "words": 6117,
-      "chars": 32481,
+      "chars": 32484,
       "ideas": 423,
       "role": "chapter",
       "order": 3,
@@ -458,12 +458,12 @@
   "totals": {
     "all": {
       "words": 17881,
-      "chars": 98066,
+      "chars": 98069,
       "ideas": 1287
     },
     "chapters": {
       "words": 17748,
-      "chars": 97211,
+      "chars": 97214,
       "ideas": 1266
     }
   }
