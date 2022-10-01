@@ -8,8 +8,8 @@
   "edition": "Drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mahen-ulicka-odvahy-4cfe93d",
-  "revision": "4cfe93d",
+  "identifier": "mahen-ulicka-odvahy-f3f21c7",
+  "revision": "f3f21c7",
   "readingOrder": [
     "promo.html",
     "ulicka_odvahy_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:39:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487588394
+    "date": "Sat Oct 01 2022 15:47:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639236026
   },
   "documents": [
     {
