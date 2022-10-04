@@ -856,5 +856,7 @@ _A opona jde dolů._
 </div>
 
 * * *
+
 [^1]: Čistému všechno čisté.
+
 </section>
